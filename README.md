@@ -1,6 +1,6 @@
 # KOWA - Spam Bot
 
-## Install
+## Install - For Termux
 ``$ apt update && apt upgrade``
 
 ``$ pkg install python python-pip git -y``
